@@ -6,3 +6,5 @@ The classes are:
 
 With mask;
 Without mask;
+
+#Dataset Link - https://www.kaggle.com/code/kannxnravi/face-mask-detection/data
